@@ -1,7 +1,7 @@
-// the program attempts to sort three integers
-// in increasing order, it is incomplete
-// Mikhail Nesterenko
-// 9/3/2009
+// The program attempts to sort three integers
+// in increasing order
+// James Meyer
+// 8/20/2019
 
 #include <iostream>
 
